@@ -1,4 +1,4 @@
-# Ml-fundamentals
+# ML-fundamentals
 
 
 This code includes 
