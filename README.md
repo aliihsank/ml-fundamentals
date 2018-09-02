@@ -1,4 +1,4 @@
-# ML-fundamentals
+# Machine Learning Fundamentals
 
 
 This section includes 
