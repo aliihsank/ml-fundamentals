@@ -1,7 +1,7 @@
 # ML-fundamentals
 
 
-This code includes 
+This section includes 
 
 REGRESSION: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression
 
